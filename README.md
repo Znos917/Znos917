@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/Znos917">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Developer;Senior%20Software%20Engineer;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20technology&font=Arial&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45%22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Do%20you%20know%20WHO%20am%20I%20?;Senior%20AI%20Engineer;ZNOS%20MEANS%0917;I%20Love%20Coding&font=Arial&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p> 
 
 <h3 align="center">
-  My Tech Stacks
+  Here are My Stacks
 </h3>
 
 <h3 align="center">
