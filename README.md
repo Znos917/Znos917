@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Znos917">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Do%20you%20know%20WHO%20am%20I%20?;Senior%20AI%20Engineer;ZNOS%20MEANS%0917;I%20Love%20Coding&font=Arial&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45%22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Do%20you%20know%20WHO%20AM%20I%20?;Senior%20AI%20Engineer;ZNOS%20MEANS%200917;I%20Love%20Coding&font=Arial&center=true&width=850&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p> 
 
